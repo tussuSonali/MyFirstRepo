@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.logo{
+    position: relative;
+    font-size: 22px;
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+    float: right;
+    font-size: 20px;
+    margin-top: 2px;
+    
+}
+.menu li a{
+    text-decoration: none;
+    font-style: none;
+}
